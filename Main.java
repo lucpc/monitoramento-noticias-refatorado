@@ -1,12 +1,12 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//TODO: tirar a lógica daqui e deixar só a parte de iniciar o programa e chamar o menu.
 class D {
     String t;
     String c;
 }
 
-public class Sistema {
+public class Main {
 
     static ArrayList<D> data = new ArrayList<>();
 

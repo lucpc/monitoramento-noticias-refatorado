@@ -1,5 +1,7 @@
 package service;
 
+import enums.Classification;
+
 public class NewsAnalyzer {
     public Classification analyze(String text) {
         int score = 0;
